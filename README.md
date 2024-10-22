@@ -1,7 +1,7 @@
 ### Instruções para Submissão dos Exercícios de Banco de Dados
 
 #### Passo 1: Faça o Fork do Repositório
-1. Acesse o repositório oficial da disciplina no GitHub através do seguinte link: [Repositório Oficial](https://github.com/gnrochabr/CC1N_20242_BD/).
+1. Acesse o repositório oficial da disciplina no GitHub através do seguinte link: [Repositório Oficial](https://github.com/gnrochabr/CC1M_20242_BD/).
 2. No canto superior direito da página do repositório, clique no botão **Fork**. Isso criará uma cópia do repositório original na sua conta do GitHub. Você trabalhará nesta cópia para desenvolver e enviar seus exercícios.
 
 #### Passo 2: Organize os Estudos de Caso
